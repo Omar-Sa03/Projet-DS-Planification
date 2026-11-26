@@ -1,0 +1,17 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Presentation and reports
+Presentation_Planification_GSM.pptx
+Rapport_Planification_GSM.pdf
+generer_rapport.py
+*.pptx
+*.pdf
+
+# Environments / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
